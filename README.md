@@ -1,137 +1,143 @@
-🚀 CODSOFT Java Development Internship - Project Portfolio
+# **🚀 CODSOFT Java Development Internship - Project Portfolio**
 
-Intern Name: Himanshu Garg
-Duration: 4 Weeks
-Domain: Java Development
-Mode: Remote Internship
+### **Intern Name:** Himanshu Garg
 
-⸻
+### **Domain:** Java Development
 
-📌 Overview
+### **Duration:** 4 Weeks
 
-This repository showcases the full set of tasks completed as part of the CODSOFT Java Development Internship. It includes five progressively advanced Java projects, focusing on core object-oriented programming, GUI development using Swing, user interaction, and validation mechanisms. All tasks are fully functional, well-documented, and designed for academic presentation or professional demonstration.
+-----
 
-⸻
+## **📌 Overview**
 
-📁 Repository Structure
+This repository showcases the full set of tasks completed as part of the **CODSOFT Java Development Internship**. It includes five progressively advanced Java projects, focusing on core object-oriented programming, GUI development using Swing, user interaction, and validation mechanisms. All tasks are fully functional, well-documented, and designed for academic presentation or professional demonstration.
 
+-----
+
+## **📁 Repository Structure**
+
+```
 CODSOFT/
-├── Task1/               # Number Guessing Game
-├── Task2/               # Student Grade Calculator (OOP)
-├── Task3/               # ATM Interface (Banking Simulation)
-├── Task4/               # Currency Converter (Offline)
-├── Task5/               # University Student Management System (Java GUI)
+├── Task1/           # Number Guessing Game
+├── Task2/           # Student Grade Calculator (OOP)
+├── Task3/           # ATM Interface (Banking Simulation)
+├── Task4/           # Currency Converter (Offline)
+└── Task5/           # University Student Management System (Java GUI)
+```
 
+-----
 
-⸻
+## **✅ Task Descriptions**
 
-✅ Task Descriptions
-
-🎮 Task 1: Number Guessing Game
+### **🎮 Task 1: Number Guessing Game**
 
 A simple yet interactive number guessing game using core Java concepts. The program generates a random number, and the user must guess it with hints.
 
-Features:
-	•	Random number generation
-	•	User input with attempts tracking
-	•	Game restart on win/loss
+  * **Features:**
+      * Random number generation
+      * User input with attempts tracking
+      * Game restart on win/loss
+  * **Concepts:** `Random`, `Scanner`, loops, conditions
 
-Concepts: Random, Scanner, loops, conditions
+-----
 
-⸻
+### **📊 Task 2: Student Grade Calculator**
 
-📊 Task 2: Student Grade Calculator
+An advanced console-based application that accepts subject-wise marks and computes total, average, and grade using **OOP** principles.
 
-An advanced console-based application that accepts subject-wise marks and computes total, average, and grade using OOP principles.
+  * **Features:**
+      * Add multiple students with subject marks
+      * Auto-calculate average and grade
+      * Exception handling for input
+  * **Concepts:** `Class`, `List`, `Scanner`, **OOP**, methods, modular design
 
-Features:
-	•	Add multiple students with subject marks
-	•	Auto-calculate average and grade
-	•	Exception handling for input
+-----
 
-Concepts: Class, List, Scanner, OOP, methods, modular design
-
-⸻
-
-🏧 Task 3: ATM Interface (Banking Simulation)
+### **🏧 Task 3: ATM Interface (Banking Simulation)**
 
 Simulates basic ATM operations such as checking balance, withdrawing and depositing cash, with user login and PIN authentication.
 
-Features:
-	•	Bank account abstraction
-	•	PIN authentication system
-	•	Deposit, withdraw, and balance check
-	•	Error handling and validation
+  * **Features:**
+      * Bank account abstraction
+      * PIN authentication system
+      * Deposit, withdraw, and balance check
+      * Error handling and validation
+  * **Concepts:** `Interfaces`, `Abstraction`, Custom Exceptions, `Scanner`, **OOP**
 
-Concepts: Interfaces, Abstraction, Custom Exceptions, Scanner, OOP
+-----
 
-⸻
+### **💱 Task 4: Currency Converter**
 
-💱 Task 4: Currency Converter
+A clean, offline currency converter that allows conversion between INR and 5+ global currencies using a **Swing interface** or console mode.
 
-A clean, offline currency converter that allows conversion between INR and 5+ global currencies using Swing interface or console mode.
+  * **Features:**
+      * Convert between **INR, USD, EUR, GBP, JPY, CAD**
+      * Validations for input
+      * Menu-driven UI
+  * **Concepts:** `Maps`, `Classes`, **Java Swing**, `Scanner`, Console app, **OOP**
 
-Features:
-	•	Convert between INR, USD, EUR, GBP, JPY, CAD
-	•	Validations for input
-	•	Menu-driven UI
+-----
 
-Concepts: Maps, Classes, Swing, Scanner, Console app, OOP
+### **🎓 Task 5: University Student Management System (GUI)**
 
-⸻
+A **Java Swing GUI** application to manage student records including university-level information like department, course, and contact details.
 
-🎓 Task 5: University Student Management System (GUI)
+  * **Features:**
+      * Add Student (with Department, Course, Email, Mobile, Address)
+      * View All Students in a `JTable`
+      * Search/Delete by Roll No
+      * Email and Duplicate validation
+      * Preloaded 6 student records for demo
+  * **Concepts:** **Java Swing**, `JFrame`, `JTable`, Validation, **OOP**, MVC-like separation
 
-A Java Swing GUI application to manage student records including university-level information like department, course, contact details.
+-----
 
-Features:
-	•	Add Student (with Department, Course, Email, Mobile, Address)
-	•	View All Students in a JTable
-	•	Search/Delete by Roll No
-	•	Email and Duplicate validation
-	•	Preloaded 6 student records for demo
+## **🔧 Tools & Technologies Used**
 
-Concepts: Java Swing, JFrame, JTable, Validation, OOP, MVC-like separation
+  * **Language:** `Java 17+`
+  * **IDE:** `IntelliJ IDEA`
+  * **Frameworks:** `Java Swing` (for GUI)
+  * **Version Control:** `Git` & `GitHub`
+  * **Build/Run:** `Terminal` / `IDE`
 
-⸻
+-----
 
-🔧 Tools & Technologies Used
-	•	Java 17+
-	•	IntelliJ IDEA
-	•	Java Swing (GUI)
-	•	Terminal & GitHub
+## **📚 Learning Outcomes**
 
-⸻
+  * Deep understanding of **Object-Oriented Programming (OOP)** principles in Java.
+  * Real-world application design using **Java Swing** for graphical interfaces.
+  * Writing **modular, readable, and validated** Java code.
+  * Using **Git** for version control and **GitHub** for collaboration.
+  * Designing interactive interfaces and practicing **logic separation**.
 
-📚 Learning Outcomes
-	•	Deep understanding of OOP principles in Java
-	•	Real-world application design using Swing
-	•	Writing modular, readable, and validated Java code
-	•	Using Git for version control and GitHub for collaboration
-	•	Designing interactive interfaces and logic separation
+-----
 
-⸻
+## **💡 How to Run the Projects**
 
-💡 How to Run the Projects
-	1.	Clone the repository or download ZIP
-	2.	Open the folder in IntelliJ IDEA
-	3.	Navigate to each task’s main file and run the application
-	4.	Ensure Java is installed and set up properly on your system
+1.  Clone the repository or download the ZIP file.
+    ```bash
+    git clone <repository-url>
+    ```
+2.  Open the project folder in **IntelliJ IDEA**.
+3.  Navigate to each task’s `main` file and run the application.
+4.  Ensure **Java** is installed and configured properly on your system.
 
-⸻
+-----
 
-📌 Submitted By
+## **📌 Submitted By**
 
-Himanshu Garg
-CODSOFT Java Development Intern
-B.Tech CSE Student
+### **Himanshu Garg**
 
-⸻
+*CODSOFT Java Development Intern*
+*B.Tech CSE Student*
 
-📬 Contact
-	•	GitHub: github.com/Himanshu04-stack
-	•	Email: himanshu0004garg@gmail.com
+-----
 
-⸻
+## **📬 Contact**
 
-⭐ This internship project series is certified by CODSOFT and demonstrates the practical application of Java concepts through mini-projects tailored for resume building, interviews, and academic excellence.
+  * **GitHub:** [github.com/Himanshu04-stack](https://www.google.com/search?q=https://github.com/Himanshu04-stack)
+  * **Email:** `himanshu0004garg@gmail.com`
+
+-----
+
+> ⭐ *This internship project series is certified by CODSOFT and demonstrates the practical application of Java concepts through mini-projects tailored for resume building, interviews, and academic excellence.*
